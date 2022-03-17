@@ -17113,7 +17113,7 @@ div.jumbotron.carousel-hero {
     margin-bottom: 0;
 }
 
-/*div.jumbotron.carousel-hero2 {
+div.jumbotron.carousel-hero2 {
     color: #fff;
     text-align: center;
     background-size: cover;
@@ -17123,7 +17123,7 @@ div.jumbotron.carousel-hero {
     margin-bottom: 0;
 }
 
-div.jumbotron.carousel-hero2 p {
+/*div.jumbotron.carousel-hero2 p {
     position: relative;
     left: 65px;
    
@@ -17146,6 +17146,16 @@ div.jumbotron.carousel-hero2 p {
     padding-bottom: 0px
     margin-bottom: 0;
     }
+
+    div.jumbotron.carousel-hero2 {
+    color: #fff;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    padding-top: 0px;
+    
+    margin-bottom: 0;
+}
 
      div.jumbotron.carousel-hero p {
         left: 0px;
